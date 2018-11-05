@@ -772,6 +772,10 @@ a:hover {
 #menu1-x .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#header4-14 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #header4-14 .mbr-table-cell {
   vertical-align: middle;
 }
@@ -788,6 +792,10 @@ a:hover {
 }
 #features3-16 .features {
   background: #f6f7f8;
+}
+#features7-1d .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #features7-1d .heading-title {
   color: #fffffd;
@@ -871,6 +879,10 @@ a:hover {
 #menu1-1e .link[aria-expanded="true"],
 #menu1-1e .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
+}
+#header4-1f .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #header4-1f .mbr-table-cell {
   vertical-align: middle;
